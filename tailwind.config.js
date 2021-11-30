@@ -8,6 +8,7 @@ module.exports = {
     extend: {
       colors: {
           ...colors,
+          'green-lime': '#5AAA4E',
       }
     },
   },
